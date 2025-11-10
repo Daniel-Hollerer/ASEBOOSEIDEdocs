@@ -1,0 +1,354 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ASEBOOSEAPP
+  name: ASEBOOSEAPP
+  href: booseIDE/ASEBOOSEAPP.html
+  commentId: N:ASEBOOSEAPP
+  fullName: ASEBOOSEAPP
+  nameWithType: ASEBOOSEAPP
+- uid: ASEBOOSEAPP.AppCanvas
+  name: AppCanvas
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html
+  commentId: T:ASEBOOSEAPP.AppCanvas
+  fullName: ASEBOOSEAPP.AppCanvas
+  nameWithType: AppCanvas
+- uid: ASEBOOSEAPP.AppCanvas.#ctor(System.Int32,System.Int32)
+  name: AppCanvas(int, int)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas__ctor_System_Int32_System_Int32_
+  commentId: M:ASEBOOSEAPP.AppCanvas.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: ASEBOOSEAPP.AppCanvas.AppCanvas(int, int)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.New(Integer, Integer)
+  nameWithType: AppCanvas.AppCanvas(int, int)
+  nameWithType.vb: AppCanvas.New(Integer, Integer)
+- uid: ASEBOOSEAPP.AppCanvas.#ctor*
+  name: AppCanvas
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas__ctor_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASEBOOSEAPP.AppCanvas.AppCanvas
+  fullName.vb: ASEBOOSEAPP.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: ASEBOOSEAPP.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:ASEBOOSEAPP.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: ASEBOOSEAPP.AppCanvas.Circle(int, bool)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: ASEBOOSEAPP.AppCanvas.Circle*
+  name: Circle
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Circle_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Circle
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: ASEBOOSEAPP.AppCanvas.Clear
+  name: Clear()
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Clear
+  commentId: M:ASEBOOSEAPP.AppCanvas.Clear
+  fullName: ASEBOOSEAPP.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: ASEBOOSEAPP.AppCanvas.Clear*
+  name: Clear
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Clear_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Clear
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: ASEBOOSEAPP.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:ASEBOOSEAPP.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: ASEBOOSEAPP.AppCanvas.DrawTo(int, int)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: ASEBOOSEAPP.AppCanvas.DrawTo*
+  name: DrawTo
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_DrawTo_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: ASEBOOSEAPP.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:ASEBOOSEAPP.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: ASEBOOSEAPP.AppCanvas.MoveTo(int, int)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: ASEBOOSEAPP.AppCanvas.MoveTo*
+  name: MoveTo
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_MoveTo_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: ASEBOOSEAPP.AppCanvas.PenColour
+  name: PenColour
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_PenColour
+  commentId: P:ASEBOOSEAPP.AppCanvas.PenColour
+  fullName: ASEBOOSEAPP.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASEBOOSEAPP.AppCanvas.PenColour*
+  name: PenColour
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_PenColour_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASEBOOSEAPP.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:ASEBOOSEAPP.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: ASEBOOSEAPP.AppCanvas.Rect(int, int, bool)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: ASEBOOSEAPP.AppCanvas.Rect*
+  name: Rect
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Rect_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Rect
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: ASEBOOSEAPP.AppCanvas.Reset
+  name: Reset()
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Reset
+  commentId: M:ASEBOOSEAPP.AppCanvas.Reset
+  fullName: ASEBOOSEAPP.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: ASEBOOSEAPP.AppCanvas.Reset*
+  name: Reset
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Reset_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Reset
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: ASEBOOSEAPP.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:ASEBOOSEAPP.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: ASEBOOSEAPP.AppCanvas.Set(int, int)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: ASEBOOSEAPP.AppCanvas.Set*
+  name: Set
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Set_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Set
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: ASEBOOSEAPP.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:ASEBOOSEAPP.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: ASEBOOSEAPP.AppCanvas.SetColour(int, int, int)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: ASEBOOSEAPP.AppCanvas.SetColour*
+  name: SetColour
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_SetColour_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: ASEBOOSEAPP.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:ASEBOOSEAPP.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: ASEBOOSEAPP.AppCanvas.Tri(int, int)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: ASEBOOSEAPP.AppCanvas.Tri*
+  name: Tri
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Tri_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Tri
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: ASEBOOSEAPP.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_WriteText_System_String_
+  commentId: M:ASEBOOSEAPP.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: ASEBOOSEAPP.AppCanvas.WriteText(string)
+  fullName.vb: ASEBOOSEAPP.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: ASEBOOSEAPP.AppCanvas.WriteText*
+  name: WriteText
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_WriteText_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: ASEBOOSEAPP.AppCanvas.Xpos
+  name: Xpos
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Xpos
+  commentId: P:ASEBOOSEAPP.AppCanvas.Xpos
+  fullName: ASEBOOSEAPP.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASEBOOSEAPP.AppCanvas.Xpos*
+  name: Xpos
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Xpos_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASEBOOSEAPP.AppCanvas.Ypos
+  name: Ypos
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Ypos
+  commentId: P:ASEBOOSEAPP.AppCanvas.Ypos
+  fullName: ASEBOOSEAPP.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASEBOOSEAPP.AppCanvas.Ypos*
+  name: Ypos
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_Ypos_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASEBOOSEAPP.AppCanvas.getBitmap
+  name: getBitmap()
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_getBitmap
+  commentId: M:ASEBOOSEAPP.AppCanvas.getBitmap
+  fullName: ASEBOOSEAPP.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: ASEBOOSEAPP.AppCanvas.getBitmap*
+  name: getBitmap
+  href: booseIDE/ASEBOOSEAPP.AppCanvas.html#ASEBOOSEAPP_AppCanvas_getBitmap_
+  commentId: Overload:ASEBOOSEAPP.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: ASEBOOSEAPP.AppCommandFactory
+  name: AppCommandFactory
+  href: booseIDE/ASEBOOSEAPP.AppCommandFactory.html
+  commentId: T:ASEBOOSEAPP.AppCommandFactory
+  fullName: ASEBOOSEAPP.AppCommandFactory
+  nameWithType: AppCommandFactory
+- uid: ASEBOOSEAPP.AppCommandFactory.MakeCommand(System.String)
+  name: MakeCommand(string)
+  href: booseIDE/ASEBOOSEAPP.AppCommandFactory.html#ASEBOOSEAPP_AppCommandFactory_MakeCommand_System_String_
+  commentId: M:ASEBOOSEAPP.AppCommandFactory.MakeCommand(System.String)
+  name.vb: MakeCommand(String)
+  fullName: ASEBOOSEAPP.AppCommandFactory.MakeCommand(string)
+  fullName.vb: ASEBOOSEAPP.AppCommandFactory.MakeCommand(String)
+  nameWithType: AppCommandFactory.MakeCommand(string)
+  nameWithType.vb: AppCommandFactory.MakeCommand(String)
+- uid: ASEBOOSEAPP.AppCommandFactory.MakeCommand*
+  name: MakeCommand
+  href: booseIDE/ASEBOOSEAPP.AppCommandFactory.html#ASEBOOSEAPP_AppCommandFactory_MakeCommand_
+  commentId: Overload:ASEBOOSEAPP.AppCommandFactory.MakeCommand
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.AppCommandFactory.MakeCommand
+  nameWithType: AppCommandFactory.MakeCommand
+- uid: ASEBOOSEAPP.BOOSEIDE
+  name: BOOSEIDE
+  href: booseIDE/ASEBOOSEAPP.BOOSEIDE.html
+  commentId: T:ASEBOOSEAPP.BOOSEIDE
+  fullName: ASEBOOSEAPP.BOOSEIDE
+  nameWithType: BOOSEIDE
+- uid: ASEBOOSEAPP.BOOSEIDE.#ctor
+  name: BOOSEIDE()
+  href: booseIDE/ASEBOOSEAPP.BOOSEIDE.html#ASEBOOSEAPP_BOOSEIDE__ctor
+  commentId: M:ASEBOOSEAPP.BOOSEIDE.#ctor
+  name.vb: New()
+  fullName: ASEBOOSEAPP.BOOSEIDE.BOOSEIDE()
+  fullName.vb: ASEBOOSEAPP.BOOSEIDE.New()
+  nameWithType: BOOSEIDE.BOOSEIDE()
+  nameWithType.vb: BOOSEIDE.New()
+- uid: ASEBOOSEAPP.BOOSEIDE.#ctor*
+  name: BOOSEIDE
+  href: booseIDE/ASEBOOSEAPP.BOOSEIDE.html#ASEBOOSEAPP_BOOSEIDE__ctor_
+  commentId: Overload:ASEBOOSEAPP.BOOSEIDE.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASEBOOSEAPP.BOOSEIDE.BOOSEIDE
+  fullName.vb: ASEBOOSEAPP.BOOSEIDE.New
+  nameWithType: BOOSEIDE.BOOSEIDE
+  nameWithType.vb: BOOSEIDE.New
+- uid: ASEBOOSEAPP.BOOSEIDE.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: booseIDE/ASEBOOSEAPP.BOOSEIDE.html#ASEBOOSEAPP_BOOSEIDE_Dispose_System_Boolean_
+  commentId: M:ASEBOOSEAPP.BOOSEIDE.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: ASEBOOSEAPP.BOOSEIDE.Dispose(bool)
+  fullName.vb: ASEBOOSEAPP.BOOSEIDE.Dispose(Boolean)
+  nameWithType: BOOSEIDE.Dispose(bool)
+  nameWithType.vb: BOOSEIDE.Dispose(Boolean)
+- uid: ASEBOOSEAPP.BOOSEIDE.Dispose*
+  name: Dispose
+  href: booseIDE/ASEBOOSEAPP.BOOSEIDE.html#ASEBOOSEAPP_BOOSEIDE_Dispose_
+  commentId: Overload:ASEBOOSEAPP.BOOSEIDE.Dispose
+  isSpec: "True"
+  fullName: ASEBOOSEAPP.BOOSEIDE.Dispose
+  nameWithType: BOOSEIDE.Dispose
+- uid: ASEBOOSEAPPTESTS
+  name: ASEBOOSEAPPTESTS
+  href: booseIDE/ASEBOOSEAPPTESTS.html
+  commentId: N:ASEBOOSEAPPTESTS
+  fullName: ASEBOOSEAPPTESTS
+  nameWithType: ASEBOOSEAPPTESTS
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests
+  name: BOOSEIDETests
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html
+  commentId: T:ASEBOOSEAPPTESTS.BOOSEIDETests
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests
+  nameWithType: BOOSEIDETests
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests.DrawTo_PenPositionStoredCorrectly
+  name: DrawTo_PenPositionStoredCorrectly()
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html#ASEBOOSEAPPTESTS_BOOSEIDETests_DrawTo_PenPositionStoredCorrectly
+  commentId: M:ASEBOOSEAPPTESTS.BOOSEIDETests.DrawTo_PenPositionStoredCorrectly
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests.DrawTo_PenPositionStoredCorrectly()
+  nameWithType: BOOSEIDETests.DrawTo_PenPositionStoredCorrectly()
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests.DrawTo_PenPositionStoredCorrectly*
+  name: DrawTo_PenPositionStoredCorrectly
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html#ASEBOOSEAPPTESTS_BOOSEIDETests_DrawTo_PenPositionStoredCorrectly_
+  commentId: Overload:ASEBOOSEAPPTESTS.BOOSEIDETests.DrawTo_PenPositionStoredCorrectly
+  isSpec: "True"
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests.DrawTo_PenPositionStoredCorrectly
+  nameWithType: BOOSEIDETests.DrawTo_PenPositionStoredCorrectly
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests.MoveTo_PenPositionStoredCorrectly
+  name: MoveTo_PenPositionStoredCorrectly()
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html#ASEBOOSEAPPTESTS_BOOSEIDETests_MoveTo_PenPositionStoredCorrectly
+  commentId: M:ASEBOOSEAPPTESTS.BOOSEIDETests.MoveTo_PenPositionStoredCorrectly
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests.MoveTo_PenPositionStoredCorrectly()
+  nameWithType: BOOSEIDETests.MoveTo_PenPositionStoredCorrectly()
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests.MoveTo_PenPositionStoredCorrectly*
+  name: MoveTo_PenPositionStoredCorrectly
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html#ASEBOOSEAPPTESTS_BOOSEIDETests_MoveTo_PenPositionStoredCorrectly_
+  commentId: Overload:ASEBOOSEAPPTESTS.BOOSEIDETests.MoveTo_PenPositionStoredCorrectly
+  isSpec: "True"
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests.MoveTo_PenPositionStoredCorrectly
+  nameWithType: BOOSEIDETests.MoveTo_PenPositionStoredCorrectly
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly
+  name: MultiLineProgram_PenPositionStoredCorrectly()
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html#ASEBOOSEAPPTESTS_BOOSEIDETests_MultiLineProgram_PenPositionStoredCorrectly
+  commentId: M:ASEBOOSEAPPTESTS.BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly()
+  nameWithType: BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly()
+- uid: ASEBOOSEAPPTESTS.BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly*
+  name: MultiLineProgram_PenPositionStoredCorrectly
+  href: booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html#ASEBOOSEAPPTESTS_BOOSEIDETests_MultiLineProgram_PenPositionStoredCorrectly_
+  commentId: Overload:ASEBOOSEAPPTESTS.BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly
+  isSpec: "True"
+  fullName: ASEBOOSEAPPTESTS.BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly
+  nameWithType: BOOSEIDETests.MultiLineProgram_PenPositionStoredCorrectly

@@ -1,0 +1,172 @@
+{
+  "source_base_path": "C:/Users/danie/source/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "booseIDE/ASEBOOSEAPP.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/ASEBOOSEAPP.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ASEBOOSEAPP.AppCanvas",
+      "Summary": "<p sourcefile=\"booseIDE/ASEBOOSEAPP.AppCanvas.yml\" sourcestartlinenumber=\"1\">A bitmap that can be drawn to for the BOOSE IDE\nIt implements <xref href=\"BOOSE.ICanvas\" data-throw-if-not-resolved=\"false\"></xref> to provide functionality</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "booseIDE/ASEBOOSEAPP.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/ASEBOOSEAPP.AppCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ASEBOOSEAPP.AppCommandFactory",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "booseIDE/ASEBOOSEAPP.BOOSEIDE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/ASEBOOSEAPP.BOOSEIDE.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ASEBOOSEAPP.BOOSEIDE",
+      "Summary": "<p sourcefile=\"booseIDE/ASEBOOSEAPP.BOOSEIDE.yml\" sourcestartlinenumber=\"1\">Main form class where the user can input BOOSE and see output on the canvas</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "booseIDE/ASEBOOSEAPP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/ASEBOOSEAPP.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ASEBOOSEAPP",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/ASEBOOSEAPPTESTS.BOOSEIDETests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ASEBOOSEAPPTESTS.BOOSEIDETests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "booseIDE/ASEBOOSEAPPTESTS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/ASEBOOSEAPPTESTS.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ASEBOOSEAPPTESTS",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "booseIDE/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "booseIDE/toc.html"
+        },
+        ".json": {
+          "relative_path": "booseIDE/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
